@@ -1,0 +1,25 @@
+body {
+    background-color: lightgrey;
+}
+
+.header {
+    background-color: aqua;
+}
+
+#bingo {
+    color: brown;
+}
+
+/*
+#two, #three, #four {
+    display: none;
+}
+*/
+
+.show {
+    display: block;
+}
+
+.hide {
+    display: none;
+}
